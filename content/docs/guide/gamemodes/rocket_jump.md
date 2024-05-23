@@ -21,4 +21,14 @@ As Valve built their (new for the time) Goldsrc engine on top of the Quake Engin
 
 ## How Rocket Jump Works
 
-TODO (TF2 wiki seems like a decent source)
+A basic rocket jump involves crouching and jumping simultaneously (commonly known as crouchjumping) while firing a rocket at a surface near the player. The height and speed of the jump depend on two key factors:
+
+1. **Position of the Explosion:** If the rocket explodes directly beneath the player, it propels them straight up. If it explodes to the side, it provides some upward momentum and horizontal movement.
+2. **Distance from Explosion:** The closer the player is to the explosion, the more momentum they gain.
+
+Every other more advanced jump technique is using this very simple mechanic in order to gain and maintain speed and height while overcoming difficult obstacles.
+
+## Technical Explanation
+
+TODO: [this seems like a good source](https://www.dropbox.com/s/jr00chyg20vuibd/Review.pdf?e=4&dl=0)
+

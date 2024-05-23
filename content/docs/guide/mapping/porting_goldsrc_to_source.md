@@ -146,7 +146,7 @@ The resulting folders should be placed in the materials folder of the game you a
 
 ## If using BSPTwoMap
 
-Download [Trenchbroom](https://github.com/TrenchBroom/TrenchBroom/releases) set it up for Half-Life(experimental). Open the map with J.A.C.K (see below) remove and then fix the invalid brushes. You will need to do it in J.A.C.K and not Hammer. Then, open the .map and go around combining mutiple brushes that would be one single brush by control-clicking them all, and press control+j (convex merge). This will take a long time if it's a large and complex map.
+Download [Trenchbroom](https://github.com/TrenchBroom/TrenchBroom/releases) set it up for Half-Life(experimental). Open the map with J.A.C.K (see below) remove and then fix the invalid brushes. You will need to do it in J.A.C.K and not Hammer. Then, open the .map and go around combining multiple brushes that would be one single brush by control-clicking them all, and press control+j (convex merge). This will take a long time if it's a large and complex map.
 
 ![MERGING BRUSHES](/images/goldsrc_to_source_guide/TRENCHBROOM_MERGE.png)
 

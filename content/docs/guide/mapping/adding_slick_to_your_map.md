@@ -7,7 +7,7 @@ tags:
   - slick
 ---
 
-Slick is a defrag mechanic that gives frictionless ground movement. Slick is distinct from the slide mechanic that [`func_slide`](/entity/func_slide/) provides. There are three ways to add slick to a map: the [`func_slick`](/entity/func_slick/) brush entity, the `%compileSlick` material paramater, and the `SetSlick` player input.
+Slick is a defrag mechanic that gives frictionless ground movement. Slick is distinct from the slide mechanic that [`func_slide`](/entity/func_slide/) provides. There are three ways to add slick to a map: the [`func_slick`](/entity/func_slick/) brush entity, the `%compileSlick` material parameter, and the `SetSlick` player input.
 
 # `func_slick`
 

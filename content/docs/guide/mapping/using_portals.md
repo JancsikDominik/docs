@@ -79,12 +79,12 @@ First ensure both the `Static Portal` and `Start Active` keyvalues are set to `Y
 
 ### Impossible Hallway
 
-An impossible hallway is one that is appears to be longer or shorter than it truely is and can serve as an excellent introduction to using portals to simulate non-euclidean geometry. A minimum of two pairs of portals will need to be used in order to extend the hallway for this type of effect. An example of the basic layout necessary can be seen below:
+An impossible hallway is one that is appears to be longer or shorter than it truly is and can serve as an excellent introduction to using portals to simulate non-euclidean geometry. A minimum of two pairs of portals will need to be used in order to extend the hallway for this type of effect. An example of the basic layout necessary can be seen below:
 
 ![Impossible Hallway](/images/using-portals_guide/impossible-hallway.jpg)
 
 {{< hint info >}}
-In order to create a fully seamless transition using a portal all details at either end must identical. This includes mundane issues such as props, texture allignment, and particles. However, lighting calculations do not factor portals into their calculations and thus must be manually replicated on both ends to make the seam completely invisible.
+In order to create a fully seamless transition using a portal all details at either end must identical. This includes mundane issues such as props, texture alignment, and particles. However, lighting calculations do not factor portals into their calculations and thus must be manually replicated on both ends to make the seam completely invisible.
 {{< /hint >}}
 
 ### Impossible Roundabout
